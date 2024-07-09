@@ -1665,7 +1665,7 @@ section {
 }
 
 .tool-list li i {
-  font-size: 5em; /* Tamaño de los íconos */
+  font-size: 4em; /* Tamaño de los íconos */
   margin-bottom: 10px; /* Espacio entre el ícono y el texto */
 }
 
