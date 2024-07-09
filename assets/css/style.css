@@ -1,14 +1,4 @@
-/**
-* Template Name: Techie
-* Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -1665,7 +1655,7 @@ section {
 }
 
 .tool-list li i {
-  font-size: 5em; /* Tamaño de los íconos */
+  font-size: 4em; /* Tamaño de los íconos */
   margin-bottom: 10px; /* Espacio entre el ícono y el texto */
 }
 
